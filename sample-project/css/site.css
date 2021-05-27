@@ -28,9 +28,8 @@
             line-height: 73px;
         }
 
-        .description {
-            font-size: 34px;
-            line-height: 40px;
+        .next-steps-container {
+            padding-top: 50px;
         }
 
         .next-steps-header {
